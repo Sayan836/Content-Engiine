@@ -1,4 +1,4 @@
-In this project, i have build an RAG model which can read any pdf documents and answer any wueries related to those documents.
+In this project, i have build an RAG model which can read any pdf documents and answer any queries related to those documents.
 
 # **To Run the program on your local machine:**
 1) **Change the token id for HuggingFace with yours in the app.py**
