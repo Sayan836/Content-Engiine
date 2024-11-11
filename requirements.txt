@@ -1,0 +1,16 @@
+streamlit
+langchain
+sentence-transformers
+torch
+transformers
+PyMuPDF
+sentence-transformers
+langchainhub
+langchain_community
+langchain-huggingface
+langchain_experimental
+langchain_chroma
+bitsandbytes
+accelerate
+pyngrok
+python-docx
